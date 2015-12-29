@@ -1,0 +1,30 @@
+{
+	"resources": [
+		{
+			"name": "refresh",
+			"type": "image",
+			"url": "assets/refresh.png"
+		},
+		{
+			"name": "ceil",
+			"type": "image",
+			"url": "assets/ceil.png"
+		},
+		{
+			"name": "bg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "replay",
+			"type": "image",
+			"url": "assets/replay.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "refresh,ceil,bg,replay"
+		}
+	]
+}
