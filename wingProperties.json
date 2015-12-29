@@ -1,32 +1,60 @@
 {
-	"close":true,
+	"close":false,
+	"natures":["egretProject"],
 	"resourcePlugin":{
-		"configs":[{
-				"configPath":"resource/default.res.json",
-				"relativePath":"resource/"
-			}],
+		"configs":[],
 		"id":"org.egret-labs.resource",
 		"library":{
 			"children":[
 				{
 					"isFolder":false,
-					"key":"refresh",
-					"name":"refresh"
+					"key":"bin-release/web/llk/resource/assets/bg.jpg",
+					"name":"bg.jpg"
 				},
 				{
 					"isFolder":false,
-					"key":"ceil",
-					"name":"ceil"
+					"key":"bin-release/web/llk/resource/assets/ceil.png",
+					"name":"ceil.png"
 				},
 				{
 					"isFolder":false,
-					"key":"bg",
-					"name":"bg"
+					"key":"bin-release/web/llk/resource/assets/refresh - 副本.png",
+					"name":"refresh - 副本.png"
 				},
 				{
 					"isFolder":false,
-					"key":"replay",
-					"name":"replay"
+					"key":"bin-release/web/llk/resource/assets/refresh.png",
+					"name":"refresh.png"
+				},
+				{
+					"isFolder":false,
+					"key":"bin-release/web/llk/resource/assets/replay.png",
+					"name":"replay.png"
+				},
+				{
+					"isFolder":false,
+					"key":"resource/assets/bg.jpg",
+					"name":"bg.jpg"
+				},
+				{
+					"isFolder":false,
+					"key":"resource/assets/ceil.png",
+					"name":"ceil.png"
+				},
+				{
+					"isFolder":false,
+					"key":"resource/assets/refresh - 副本.png",
+					"name":"refresh - 副本.png"
+				},
+				{
+					"isFolder":false,
+					"key":"resource/assets/refresh.png",
+					"name":"refresh.png"
+				},
+				{
+					"isFolder":false,
+					"key":"resource/assets/replay.png",
+					"name":"replay.png"
 				}
 			]
 		}
