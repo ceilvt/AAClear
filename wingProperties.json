@@ -1,0 +1,34 @@
+{
+	"close":true,
+	"resourcePlugin":{
+		"configs":[{
+				"configPath":"resource/default.res.json",
+				"relativePath":"resource/"
+			}],
+		"id":"org.egret-labs.resource",
+		"library":{
+			"children":[
+				{
+					"isFolder":false,
+					"key":"refresh",
+					"name":"refresh"
+				},
+				{
+					"isFolder":false,
+					"key":"ceil",
+					"name":"ceil"
+				},
+				{
+					"isFolder":false,
+					"key":"bg",
+					"name":"bg"
+				},
+				{
+					"isFolder":false,
+					"key":"replay",
+					"name":"replay"
+				}
+			]
+		}
+	}
+}
