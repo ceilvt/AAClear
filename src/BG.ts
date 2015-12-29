@@ -1,7 +1,7 @@
 /**
  *控制底层背景显示类
  * @author 
- *
+ *test
  */
 class BG extends egret.Sprite{
     
